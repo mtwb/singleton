@@ -1,0 +1,12 @@
+c:\users\lech\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.exe.config
+c:\users\lech\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.exe
+c:\users\lech\documents\visual studio 2015\Projects\Singleton\Singleton\bin\Debug\Singleton.pdb
+c:\users\lech\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.exe
+c:\users\lech\documents\visual studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Lech\Documents\Visual Studio 2015\Projects\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
+C:\Users\Piotr\Desktop\UG\Wzorce projetkowe\Singleton\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Piotr\Desktop\UG\Wzorce projetkowe\Singleton\Singleton\obj\Debug\Singleton.exe
+C:\Users\Piotr\Desktop\UG\Wzorce projetkowe\Singleton\Singleton\obj\Debug\Singleton.pdb
+C:\Users\Piotr\Desktop\UG\Wzorce projetkowe\Singleton\Singleton\bin\Debug\Singleton.exe
+C:\Users\Piotr\Desktop\UG\Wzorce projetkowe\Singleton\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Piotr\Desktop\UG\Wzorce projetkowe\Singleton\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache
